@@ -1,8 +1,10 @@
-# React + Vite
+# Hosting Link : https://modern-bank-website-ui.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Description :-
+(a) It is a fully resposive website.
+(b) Technologies used are reactjs and tailwind.
+(c) Created a very interactive website.
+(d) Use of linear gradients for attractiveness.
+here's the snapshot:
+![image](https://github.com/111sweety/Modern_Bank_Website-UI/assets/115339312/09ac837b-a5a3-4ede-bcfe-1bae044d583d)
+![image](https://github.com/111sweety/Modern_Bank_Website-UI/assets/115339312/7f5c8b19-2398-4ba8-a039-6f88a13841f0)
